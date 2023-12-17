@@ -1,0 +1,15 @@
+D:\CsharpProjects\CommentCode\bin\Debug\net8.0\CommentCode.exe
+D:\CsharpProjects\CommentCode\bin\Debug\net8.0\CommentCode.deps.json
+D:\CsharpProjects\CommentCode\bin\Debug\net8.0\CommentCode.runtimeconfig.json
+D:\CsharpProjects\CommentCode\bin\Debug\net8.0\CommentCode.dll
+D:\CsharpProjects\CommentCode\bin\Debug\net8.0\CommentCode.pdb
+D:\CsharpProjects\CommentCode\obj\Debug\net8.0\CommentCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpProjects\CommentCode\obj\Debug\net8.0\CommentCode.AssemblyInfoInputs.cache
+D:\CsharpProjects\CommentCode\obj\Debug\net8.0\CommentCode.AssemblyInfo.cs
+D:\CsharpProjects\CommentCode\obj\Debug\net8.0\CommentCode.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\CommentCode\obj\Debug\net8.0\CommentCode.sourcelink.json
+D:\CsharpProjects\CommentCode\obj\Debug\net8.0\CommentCode.dll
+D:\CsharpProjects\CommentCode\obj\Debug\net8.0\refint\CommentCode.dll
+D:\CsharpProjects\CommentCode\obj\Debug\net8.0\CommentCode.pdb
+D:\CsharpProjects\CommentCode\obj\Debug\net8.0\CommentCode.genruntimeconfig.cache
+D:\CsharpProjects\CommentCode\obj\Debug\net8.0\ref\CommentCode.dll
